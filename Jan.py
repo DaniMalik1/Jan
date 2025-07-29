@@ -1,1 +1,1 @@
-import jan2_enc
+import zid_enc
