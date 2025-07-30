@@ -14,7 +14,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import zi_enc
+        import zid_enc
     
  
 elif bit == '32bit':
