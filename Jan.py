@@ -14,7 +14,7 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import Nokia_enc
+        import world_enc
     
  
 elif bit == '32bit':
