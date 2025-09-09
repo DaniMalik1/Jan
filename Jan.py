@@ -14,9 +14,9 @@ except:
 bit = platform.architecture()[0]
 if bit == '64bit':
     
-        import world_enc
+        import Aking2_enc
     
  
 elif bit == '32bit':
     
-        import run_enc
+        import Aking22_enc
